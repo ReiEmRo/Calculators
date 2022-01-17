@@ -6,7 +6,7 @@
     </servlet>
     <servlet>
         <servlet-name>ArithmeticCalculator</servlet-name>
-        <servlet-class>ca.sait.calculators.servlets.ArithmeticCalculator</servlet-class>
+        <servlet-class>ca.sait.calculators.servlets.ArithmeticCalculatorServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>AgeCalculatorServlet</servlet-name>
